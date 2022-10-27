@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I'm Malechi, and I'm moving into the world of development from a previous career in marketing 👨‍💻 Working remotely since 2017 🌎</div>  
   
 
-- 🔭 I’m a data analyst, looking for new roles within Web3
+- 🔭 I’m learning and building projects constantly
   
 
 - 🌱 I'm also learning and contributing to the Web3 ecosystem  
