@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi, I'm Malechi, and I'm moving into the world of tech & development from a previous career in marketing 👨‍💻 Working remotely since 2017 🌎</div>  
+### <div align="center">Hi, I'm Malechi, and I'm moving into the world of tech & development from a previous career in digital marketing 👨‍💻 Working remotely since 2017 🌎</div>  
   
 
 - 🔭 I’m learning and building projects in my spare time
