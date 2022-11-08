@@ -3,11 +3,10 @@
 </div>  
   
 
-### <div align="center">Hi, I'm Malechi, and I'm moving into the world of tech & development from a previous career in digital marketing 👨‍💻 
-  Working remotely since 2017 🌎</div>  
+### <div align="center">Hi, I'm Malechi, and I'm moving into the world of tech & development from a previous career in digital marketing 👨‍💻 Working remotely since 2017 🌎</div>  
   
 
-- 🔭 I’m learning and building projects in my spare time
+- 🔭 I’m building projects in my spare time
   
 
 - 🌱 I'm also learning and contributing to the Web3 ecosystem  
