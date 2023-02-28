@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi, I'm Michael, and I'm a paid search consultant with a 10+ year career in digital marketing 👨‍💻 Working remotely since 2017 🌎</div>  
+### <div align="center">Hi, I'm Malechi, and I'm a developer coming from a 10+ year career in digital marketing 👨‍💻 Working remotely since 2017 🌎</div>  
   
 
 - 🔭 I’m building projects in my spare time
