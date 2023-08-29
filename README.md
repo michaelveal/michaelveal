@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi, I'm Michael, and I'm learning to build things in my spare time 👨‍💻 Working remotely since 2017 🌎</div>  
+### <div align="center">Hi, I'm Malechi, and I'm buildings things in my spare time 👨‍💻 Working remotely since 2017 🌎</div>  
   
 
 - 🔭 I’m building projects in my spare time
